@@ -1,4 +1,4 @@
-### Olá, sou a Daiane dos Anjos 👋🏼
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D11C92&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Daiane+dos+Anjos!;Devenvolvedora+Frontend:%29)](https://git.io/typing-svg)
 
 - 👩🏽‍💻 Desenvolvedora front-end
 - 😄 Pronome: ela/dela
